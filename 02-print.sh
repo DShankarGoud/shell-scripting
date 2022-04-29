@@ -21,5 +21,5 @@ echo -e "Hello\nWorld"
 # Cyan
 # Reset
 # Syntax : echo -e "\e[COLmMESSAGE\E[0m"
-echo -e "\e[33mYello Text"
+echo -e "\e[31Red Text\e[0m"
 echo Normal Text
