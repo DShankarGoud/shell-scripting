@@ -10,6 +10,6 @@ echo fruit name = $fruit
 
 echo Hello, Todat date is $DATE
 
-SUM=$((2=3))
+SUM=$((2+3))
 echo Two plus Three = $SUM
 
