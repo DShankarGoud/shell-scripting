@@ -23,3 +23,5 @@ echo -e "Hello\nWorld"
 # Syntax : echo -e "\e[COLmMESSAGE\E[0m"
 echo -e "\e[31mRed Text\e[0m"
 echo Normal Text
+
+# make a code
