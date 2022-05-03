@@ -3,5 +3,4 @@
 # Declare a Variable
 fruit=Apple
 
-Echo Fruit name = $fruit
-
+echo Fruit name = $fruit
